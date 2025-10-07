@@ -120,10 +120,6 @@ Alice,Johnson,IT,"IT-Dept;VPN-Users"
 
 ---
 
-[View repository](https://github.com/sherii190/AD-User-Automation-Demo)
-
----
-
 ## 📄 License
 
 MIT License – see `LICENSE` file.
