@@ -2,7 +2,7 @@
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-Demo-blue?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/)
 
-**Project by Shehryar Hassan ** – Senior IT Support / 3rd-Line Infrastructure Engineer  
+**Project by Shehryar Hassan** – Senior IT Support / 3rd-Line Infrastructure Engineer  
 
 ---
 
