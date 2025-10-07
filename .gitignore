@@ -1,0 +1,6 @@
+
+# Ignore logs and temporary files
+*.csv
+*.log
+*.tmp
+sample_screenshots/
