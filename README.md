@@ -2,7 +2,7 @@
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-Demo-blue?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/)
 
-**Project by @sherii190** – Senior IT Support / 3rd-Line Infrastructure Engineer  
+**Project by Shehryar Hassan ** – Senior IT Support / 3rd-Line Infrastructure Engineer  
 
 ---
 
@@ -117,20 +117,8 @@ Alice,Johnson,IT,"IT-Dept;VPN-Users"
 - Simulates **enterprise AD operations** without needing access to a live environment  
 - Shows understanding of **security, identity, and compliance**  
 - Illustrates ability to **document and present technical projects professionally**  
-- Perfect for **CV / portfolio** to impress hiring managers  
 
 ---
-
-## 📌 Next Steps / Enhancements (Optional)
-- Integrate with **real AD / Exchange Online** (secure lab environment)  
-- Add **GUI front-end** (PowerShell WinForms or WPF) for non-technical users  
-- Implement **API-based HR system integration** for fully automated onboarding  
-- Expand **logging to central monitoring system / SIEM**  
-
----
-
-## 🔗 GitHub / Portfolio Ready
-This project is ready to be shared in your **CV, LinkedIn, or portfolio** as a **senior 3rd-line IT showcase**.  
 
 [View repository](https://github.com/sherii190/AD-User-Automation-Demo)
 
